@@ -7,6 +7,7 @@ Simplify task management by providing users with a straightforward and efficient
 - Mark tasks as completed with a checkbox.
 - Delete tasks to keep your list clean.
 - Clean, responsive design with modern visuals.
+- Tasks are saved using localStorage, ensuring they persist even after refreshing or closing the browser
 
 ## Technologies
 - HTML, CSS, JavaScript
