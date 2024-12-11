@@ -1,0 +1,17 @@
+{
+    "name": "final-project",
+    "version": "1.0.0",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "A simple Node.js project to serve a To-Do List",
+    "dependencies": {
+      "express": "^4.21.1"
+    }
+  }
+  
